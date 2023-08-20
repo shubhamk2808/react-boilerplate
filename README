@@ -1,0 +1,47 @@
+Your Project Name
+Short project description.
+
+Table of Contents
+Introduction
+Getting Started
+Installation
+Running the Development Server
+Building for Production
+Technologies Used
+Project Structure
+Contributing
+License
+Introduction
+Briefly introduce your project here. Describe its purpose, features, and any other relevant information.
+
+Getting Started
+Installation
+Follow these steps to get your development environment set up:
+
+Clone this repository:
+
+git clone https://github.com/your-username/your-project.git
+cd your-project
+Install project dependencies:
+
+npm install
+Running the Development Server
+To start the development server and run your app locally, use the following command:
+
+npm start
+This will start the development server and open your app in your default web browser.
+
+Building for Production
+To build your app for production, use the following command:
+
+npm run build
+This will generate optimized production-ready files in the dist directory.
+
+Technologies Used
+List the main technologies and tools you're using in your project, such as React, Webpack, Babel, etc.
+
+Project Structure
+Briefly describe the structure of your project. Explain the purpose of key files and directories.
+
+Run ESLint: to run lint and prettier command
+npx eslint .
